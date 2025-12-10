@@ -10,4 +10,5 @@ public class StableMatchApplication {
 		SpringApplication.run(StableMatchApplication.class, args);
 	}
 
+
 }
